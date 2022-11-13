@@ -1,0 +1,166 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  :root {
+      --white:#ffffff;
+      --login-color:#f8f8f8
+  }
+  main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .started ,.forget-password , .login ,.form::placeholder , .login-btn button , .Continue span{
+    font-family: "Inter";
+    font-style: normal;
+  }
+  .parent {
+    background: var(--white);
+    width: 375px;
+    height: 269px;
+    border-radius: 15px 15px 0px 0px;
+    margin-top: -30px;
+    display: inline-block;
+    z-index: 100000 !important;
+    
+  }
+  
+  img {
+    width: 375px;
+    height: 269px;
+    
+  }
+  .btn-parent {
+    width: 326px;
+    height: 40px;
+    background: var(--login-color);
+    border-radius: 25px;
+    margin: 30px auto;
+  }
+  .btn-parent a {
+    width: 154px;
+    height: 40px;
+    background: var(--login-color);
+    border-radius: 23.5px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 3;
+    display: inline-block;
+    text-align: center;
+  }
+  .btn-parent .active {
+    background: linear-gradient(95.26deg, #63ccfb -1.79%, #00a2f4 78.59%);
+    color: white;
+  }
+  .started {
+    width: 138px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    margin:10px auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+    color: #000000;
+  }
+  .form {
+    width: 326px;
+    height: 49px;
+    margin: 10px auto;
+    background: #f0f0f0;
+    border-radius: 8px;
+    border: none;
+    padding-left: 10px;
+  }
+  .form::placeholder {
+    padding: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+  
+    color: #adadad;
+  }
+  .login-btn {
+    display: block;
+    background: var(--white);
+    width: 95%;
+    margin:5px auto;
+    z-index: 100000 !important;
+    border: none;
+  }
+  .login-btn button {
+    width: 308px;
+    height: 47px;
+    margin: auto;
+    background: linear-gradient(96.38deg, #63ccfb -8.79%, #00a2f4 86.42%);
+    border-radius: 23.5px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    border: none;
+    color: var(--white);
+  }
+  .forget-password {
+    display: block;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    color: #0085ff;
+    text-decoration: none;
+    width: 90%;
+    margin: auto !important;
+  }
+  .Continue,
+  footer {
+    background: var(--white);
+    width: 95%;
+margin-top: 15px;
+text-align: center;
+
+
+    
+  }
+  .Continue span {
+    display: block;
+    padding: 0px;
+    width: 90%;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    margin: auto !important;
+  
+    /* identical to box height */
+  
+    color: #494949;
+  }
+  .trem-of-us{
+    width: 80%;
+    margin:5px auto;
+    font-size: 13px;
+  }
+ 
+  .footer-div div {
+    width: 72px;
+    height: 50px;
+    left: 34px;
+    top: 696px;
+    background: #f7fcff;
+    border-radius: 5px;
+  }
+  .footer-div div img {
+    width: 23px;
+    height: 19px;
+  }
+  li{
+    list-style: none;
+  }
+  .error-page{
+    text-align: center;
+  }
+  
