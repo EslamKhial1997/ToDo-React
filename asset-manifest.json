@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ToDo-React/static/css/main.7965be94.css",
+    "main.js": "/ToDo-React/static/js/main.c624ef9c.js",
+    "static/media/blake-wisz-Xn5FbEM9564-unsplash 1.png": "/ToDo-React/static/media/blake-wisz-Xn5FbEM9564-unsplash 1.e67dcdb1a1de0c35d158.png",
+    "static/media/gmail.png": "/ToDo-React/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/Sign up.svg": "/ToDo-React/static/media/Sign up.6552636f0a88e4965bea458b2ecfd641.svg",
+    "static/media/insta.svg": "/ToDo-React/static/media/insta.6886db4aea3c11a5e74e41a5d385aa16.svg",
+    "static/media/Vector.svg": "/ToDo-React/static/media/Vector.2984c7d7c0f79e35ab15eb3d0ba25a79.svg",
+    "static/media/apple.svg": "/ToDo-React/static/media/apple.3d01c356d072d7ba8df58f21be9753d6.svg",
+    "index.html": "/ToDo-React/index.html",
+    "main.7965be94.css.map": "/ToDo-React/static/css/main.7965be94.css.map",
+    "main.c624ef9c.js.map": "/ToDo-React/static/js/main.c624ef9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7965be94.css",
+    "static/js/main.c624ef9c.js"
+  ]
+}
